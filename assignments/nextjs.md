@@ -46,7 +46,7 @@ We are **not** expecting all of these. A focused, polished core beats a pile of 
 
 ## What we're evaluating
 - **Architecture** — clean separation of server/client, sensible serverless route design, streaming done right.
-- **Product taste** — does it feel good to use? Are loading/error/empty states handled well?
+- **UI & product taste** — we will closely analyze your **UI: layout, components, icons, spacing, states, accessibility, and overall polish.** Does it feel like a real product? Are loading/error/empty states handled well? Thoughtful, consistent design counts heavily.
 - **Code quality** — readability, types, structure, no dead code, no leaked secrets.
 - **Correctness** — chat (`kimi-k2.7-code`), image gen (`flux-2-klein-9b`), and vision actually work against the free tier.
 - **Communication** — your README + commit history tell the story of your decisions.

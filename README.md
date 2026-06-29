@@ -25,6 +25,7 @@ Engineering roles both use the **CallMissed API** with a **free-tier** API key �
 3. **Your README must be updated.** Replace/extend the README in *your* submission repo to explain: what you built, how to run it, the decisions and trade-offs you made, what you'd do with more time, and (honestly) where you used AI and how.
 4. **Attach an updated résumé.** Commit your current résumé (PDF) to your submission repo as `resume.pdf` (or link it clearly in your README).
 5. **Your own public repo.** Build in a **public** GitHub repository under *your* account (not a private one, not a PR to this repo).
+6. **By participating you agree to our [Terms & Conditions](TERMS.md).** Please read them — they cover IP, AI use, privacy, and that this process is voluntary and not an offer of employment.
 
 ---
 
@@ -37,6 +38,12 @@ When you're done, **email the link to your public repo** to **[karan@callmissed.
 - Make sure `resume.pdf` and an updated `README.md` are in the repo.
 
 We read every submission. If it's good, you'll hear from us fast.
+
+---
+
+## 📄 Terms
+
+Participation is voluntary and subject to our **[Terms & Conditions](TERMS.md)** (IP, AI use, privacy, no-employment-obligation, governing law). By starting or submitting an assignment, you agree to them.
 
 ---
 
